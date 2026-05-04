@@ -3,10 +3,18 @@
 </p>
 
 <p align="center">
-	<img alt="Workflow Automation" src="https://img.shields.io/badge/Workflow-Automation-0F62FE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-	<img alt="YAML Orchestration" src="https://img.shields.io/badge/YAML-Orchestration-1D4ED8?style=for-the-badge&logo=yaml&logoColor=white"/>
-	<img alt="CLI and Engine" src="https://img.shields.io/badge/CLI%20%26%20Engine-0F172A?style=for-the-badge&logo=gnubash&logoColor=white"/>
-	<img alt="Integration Content" src="https://img.shields.io/badge/Integration-Content-0E7490?style=for-the-badge&logo=openstack&logoColor=white"/>
+	<a href="https://github.com/CloudSlang/cloud-slang">
+		<img alt="cloud-slang repository" src="https://img.shields.io/badge/cloud--slang-Language%20%26%20CLI-0F62FE?style=for-the-badge&logo=gnubash&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/score">
+		<img alt="score repository" src="https://img.shields.io/badge/score-Orchestration%20Engine-1D4ED8?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content">
+		<img alt="cs-content repository" src="https://img.shields.io/badge/cs--content-Ready--Made%20Workflows-0E7490?style=for-the-badge&logo=openstack&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-actions">
+		<img alt="cs-actions repository" src="https://img.shields.io/badge/cs--actions-Java%20Actions-0F172A?style=for-the-badge&logo=java&logoColor=white"/>
+	</a>
 </p>
 
 # CloudSlang
@@ -14,6 +22,118 @@
 ## Overview
 
 CloudSlang is an open-source workflow automation and orchestration project centered on a YAML-based language, an execution engine, a CLI, reusable content packs, and developer tooling. The organization brings together the core runtime, ready-made automations, Java actions, SDKs, editors, packaging utilities, documentation, and test assets needed to build and run orchestration at scale.
+
+## Top Integrations
+
+The integrations below are extracted from the CloudSlang content ecosystem and link directly to their respective sections in [cs-content](https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang).
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/amazon/aws">
+		<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/microsoft/azure">
+		<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/google">
+		<img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/alibaba/ecs">
+		<img alt="Alibaba Cloud" src="https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/oracle/oci">
+		<img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/-Oracle%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/docker">
+		<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/kubernetes">
+		<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/openshift">
+		<img alt="OpenShift" src="https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/openstack">
+		<img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/vmware">
+		<img alt="VMware" src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/hashicorp">
+		<img alt="HashiCorp" src="https://img.shields.io/badge/-HashiCorp-000000?style=for-the-badge&logo=hashicorp&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/jenkins">
+		<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/atlassian/jira">
+		<img alt="Atlassian Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/itsm/service_now">
+		<img alt="ServiceNow" src="https://img.shields.io/badge/-ServiceNow-1DB954?style=for-the-badge&logo=servicenow&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/twilio/sms">
+		<img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/cyberark/privileged_access_manager">
+		<img alt="CyberArk" src="https://img.shields.io/badge/-CyberArk-2E3A59?style=for-the-badge"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/new_relic/servers">
+		<img alt="New Relic" src="https://img.shields.io/badge/-New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/nutanix/prism">
+		<img alt="Nutanix" src="https://img.shields.io/badge/-Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/couchbase">
+		<img alt="Couchbase" src="https://img.shields.io/badge/-Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/postgresql">
+		<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/chef">
+		<img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=for-the-badge&logo=chef&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/consul">
+		<img alt="Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/digital_ocean/v2">
+		<img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/heroku">
+		<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/git">
+		<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/maven">
+		<img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/redhat">
+		<img alt="Red Hat" src="https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/abbyy/cloud">
+		<img alt="ABBYY" src="https://img.shields.io/badge/-ABBYY-222222?style=for-the-badge"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/tesseract/ocr">
+		<img alt="Tesseract" src="https://img.shields.io/badge/-Tesseract-5A6AB1?style=for-the-badge"/>
+	</a>
+	<a href="https://github.com/CloudSlang/cs-content/tree/WS_2_0/content/io/cloudslang/microfocus">
+		<img alt="Micro Focus" src="https://img.shields.io/badge/-Micro%20Focus-333333?style=for-the-badge"/>
+	</a>
+</p>
 
 ## What You Will Find Here
 
